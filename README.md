@@ -13,7 +13,10 @@ I challenged **Gemini** to write a simulation of a ball bouncing down a ramp, co
 * **Engine:** Purely AI-generated logic.
 
 ---
+### 📸 Screenshot
+![Physics Demo Screenshot](<Screenshot From 2026-03-05 18-21-33.png>)
 
+---
 ### 🔗 Full Details
 
 For the deep dive and source code, check out the official documentation here:
