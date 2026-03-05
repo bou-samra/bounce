@@ -19,5 +19,5 @@ I challenged **Gemini** to write a simulation of a ball bouncing down a ramp, co
 ---
 ### 🔗 Full Details
 
-For the deep dive and source code, check out the official documentation here:
+Checkout my blog for the deep dive and source code, here:
 👉 **[https://www.bou-samra.org/~jason/?p=2079](https://www.bou-samra.org/~jason/?p=2079)**
